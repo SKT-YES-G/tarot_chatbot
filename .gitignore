@@ -1,0 +1,20 @@
+# Frontend
+frontend/node_modules/
+frontend/.env.local
+frontend/dist/
+frontend/.git/
+
+# Backend (tarot-rag)
+tarot-rag/venv/
+tarot-rag/__pycache__/
+tarot-rag/.env
+tarot-rag/chroma_db/
+tarot-rag/.git/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

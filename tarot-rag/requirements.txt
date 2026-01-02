@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+chromadb
+langchain
+langchain-community
+langchain-text-splitters
+langchain-openai

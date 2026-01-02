@@ -1,0 +1,20 @@
+/* 타로 테마 폰트 설정 */
+
+/* 기본 폰트 - Gowun Dodum (부드러운 본문용) */
+body {
+  font-family: 'Gowun Dodum', sans-serif;
+}
+
+/* 제목용 폰트 - Gowun Batang (우아한 세리프) */
+.font-title {
+  font-family: 'Gowun Batang', serif;
+}
+
+/* Tailwind용 폰트 유틸리티 */
+.font-serif {
+  font-family: 'Gowun Batang', serif;
+}
+
+.font-sans {
+  font-family: 'Gowun Dodum', sans-serif;
+}
